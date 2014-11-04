@@ -1,4 +1,3 @@
 Quadrotor Controller
 
-Implementation of a simulator for the Dynamics and Controller for a Quadrotor.
-Demonstration of several trajectories to test the response of a quad controller.
+Multiple Quadrotor Path finding techniques. Avoid collision techniques, and controller implementation. Not designed for optimality but for multiple quadrotor control.
